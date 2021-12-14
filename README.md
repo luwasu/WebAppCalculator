@@ -8,7 +8,7 @@ The initial page:
 
 ![image](https://user-images.githubusercontent.com/40022621/146069305-94bd3c69-b4a0-4466-a116-c891148f219d.png)
 
-The second page should show the result but it does not: 
+The second page should show the result: 
 
 ![image](https://user-images.githubusercontent.com/40022621/146069394-ed79d318-ce79-4080-9b6a-25155e08b9fc.png)
 
